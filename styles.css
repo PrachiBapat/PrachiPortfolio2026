@@ -11,7 +11,7 @@ html{
 .navbar {
     width: 100%;
     display: grid;
-    grid-template-columns: repeat(6, 1fr);
+    grid-template-columns: repeat(8, 1fr);
     align-items: center;
     /* background-color: rgb(243, 222, 208); */
     background: rgba(243, 222, 208, 0.65);
